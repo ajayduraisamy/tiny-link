@@ -120,5 +120,5 @@ Delete button
 
 Last clicked time + total clicks
 
-## Demo Page
-/demo
+## Demo Video url
+https://tiny-link-roan.vercel.app/demo
